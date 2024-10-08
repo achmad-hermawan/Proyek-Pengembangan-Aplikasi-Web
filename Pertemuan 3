@@ -1,1 +1,50 @@
-pertemuan 3
+// Merancang Database
+// Docs: https://dbml.dbdiagram.io/docs
+
+// Tabel Customers
+Table Customers {
+    id int [pk, increment] // Primary Key, Auto Increment
+    name varchar(100)
+    email varchar(100) [unique]
+    phone varchar(15)
+    address text
+    created_at datetime [default: `now()`]
+}
+
+// Tabel Products
+Table Products {
+    id int [pk, increment]
+    name varchar(100)
+    description text
+    price decimal(10, 2)
+    stock int
+    created_at datetime [default: `now()`]
+}
+
+// Tabel Orders
+Table Orders {
+    id int [pk, increment]
+    customer_id int [ref: > Customers.id]
+    order_date datetime [default: `now()`]
+    status varchar(50)
+}
+
+// Tabel OrderDetails
+Table OrderDetails {
+    id int [pk, increment]
+    order_id int [ref: > Orders.id]
+    product_id int [ref: > Products.id]
+    quantity int
+    price decimal(10, 2)
+    total decimal(10, 2) [note: 'price * quantity']
+}
+
+// Tabel Payments
+Table Payments {
+    id int [pk, increment]
+    order_id int [ref: > Orders.id]
+    payment_date datetime [default: `now()`]
+    amount decimal(10, 2)
+    payment_method varchar(50)
+    status varchar(50)
+}
