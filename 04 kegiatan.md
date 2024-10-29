@@ -22,17 +22,16 @@ Konsep Analisis Kebutuhan
 #### Rancangan Input
 
 # Form Input Pelanggan:
-![image](https://github.com/achmad-hermawan/Proyek-Pengembangan-Aplikasi-Web/blob/main/f1.png)
+![f1](https://github.com/user-attachments/assets/788f41cc-a32a-41b1-9da9-074a77ab4c3b)
 # Form Input Produk:
-![image](https://github.com/achmad-hermawan/Proyek-Pengembangan-Aplikasi-Web/blob/main/f2.png)
+![f2](https://github.com/user-attachments/assets/e9c155db-46cb-4dc4-999c-49bff51e7ec9)
 # Form Input Pesanan:
-![image](https://github.com/achmad-hermawan/Proyek-Pengembangan-Aplikasi-Web/blob/main/f3.png)
+![f3](https://github.com/user-attachments/assets/57529d1e-d67c-4a25-a40f-58321e5a0559)
 
 #### Rancangan Output
 
 Laporan Penjualan:
-
-![image](https://github.com/achmad-hermawan/Proyek-Pengembangan-Aplikasi-Web/blob/main/tabel%202.png)
+![tabel 2](https://github.com/user-attachments/assets/b31bfde0-e647-45b6-8211-57ada1336905)
 
 
 Notifikasi:
