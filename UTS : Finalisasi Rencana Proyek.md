@@ -65,9 +65,12 @@
     #### Kesimpulan
 
       Dalam Sistem Informasi Pendataan Penjualan Laptop, membedakan fitur antara user dan admin       sangat penting untuk menciptakan aplikasi yang efektif, efisien, dan aman. Fitur user           dirancang agar mudah digunakan dan mendukung pengalaman berbelanja yang nyaman. Sementara       itu, fitur admin difokuskan pada pengelolaan sistem yang memudahkan dalam memantau dan          mengatur penjualan, stok, dan data pengguna. Dengan pembagian fitur yang tepat, sistem          ini dapat mendukung operasi bisnis yang lebih lancar dan menjaga keamanan data dengan baik.
-
-3.
-4.
+      
+3. ### Rencana Jumlah Tabel :
+   - Tabel Penjualan
+   - Tabel Pelanggan
+   - Tabel Produk
+4. 
 
 
 
