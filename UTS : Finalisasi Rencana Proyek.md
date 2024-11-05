@@ -71,16 +71,11 @@
    - Tabel Pelanggan
    - Tabel Produk
  4. ### Rencana kegiatan pada proyek saya di atas
-   Kegiatan ke-8 (12-18 Nov 2024)
-   - Pengembangan Fitur User
-   Kegiatan ke-9 (19-25 Nov 2024)
-   - Pengembangan Fitur User Lanjutan
-   Kegiatan ke-10 (26 Nov -2 Des 2024)
-   - Pengembangan Fitur Admin
-   Kegiatan ke-11 (3 - 9 Des 2024)
-   - Pengembangan Fitur Tambahan dan Laporan
-   Kegiatan ke-12 (10 - 16 Des 2024)
-   - Finalisasi Sistem dan Uji Keseluruhan
+     - Kegiatan ke-8 (12-18 Nov 2024) : Pengembangan Fitur User
+     - Kegiatan ke-9 (19-25 Nov 2024) : Pengembangan Fitur User Lanjutan
+     - Kegiatan ke-10 (26 Nov -2 Des 2024) : Pengembangan Fitur Admin
+     - Kegiatan ke-11 (3 - 9 Des 2024) : Pengembangan Fitur Tambahan dan Laporan
+     - Kegiatan ke-12 (10 - 16 Des 2024) : Finalisasi Sistem dan Uji Keseluruhan
 
 
 
