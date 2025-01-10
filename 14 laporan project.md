@@ -103,72 +103,36 @@ Untuk memberikan fleksibilitas dan kontrol penuh dalam pengembangan, kami tidak 
 ---
 
 ## 3. Implementasi
-
-### a. Model
-https://github.com/FebiMaharani/Proyek-Pengembangan-APK-Web/blob/main/Projek%20Akhir/model
-
-### b. View
-https://github.com/FebiMaharani/Proyek-Pengembangan-APK-Web/blob/main/Projek%20Akhir/view
-
-### c. Controller
-https://github.com/FebiMaharani/Proyek-Pengembangan-APK-Web/blob/main/Projek%20Akhir/controller
-
+link kode : https://drive.google.com/drive/folders/18ZNTzkE7QKD4xMbGvWBko4phmvuAckKd?usp=sharing
 ---
 
 ## 4. Tampilan/Output
 
-### 1) Tampilan untuk Guest/Tamu
-- **Home**
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src ="https://github.com/user-attachments/assets/f6f55bb9-c52e-43b5-b019-6672740c3065" alt="DFD" style="width: 50%;" )
-   </div>
+### Tampilan untuk Admin
+#### **Dashboard**
+![image](https://github.com/user-attachments/assets/5120f649-cf27-4dad-9abc-2389c27d0576)
 
-- **Profile**
-   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-       <img src ="https://github.com/user-attachments/assets/36a80f61-1d31-4bbe-9f4d-5c3765726f4e" alt="Profile" style="width: 50%;" )
-   </div>
-   
-- **Login**
-   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-         <img src ="https://github.com/user-attachments/assets/cbacc7c8-725a-4149-962c-c857a222ac71" alt="Login" style="width: 50%;" )
-   </div>
+#### **Data Penjualan**
+![image](https://github.com/user-attachments/assets/1ed2f277-b391-4538-975f-068321fe1064)
 
-### 2) Tampilan untuk Admin
-#### **Siswa**: Tampil, Tambah, Edit, Hapus.
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/880bb127-9f97-4c12-bebf-fa9537be553d" alt="Siswa Tampil" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/fe239be4-4a98-4874-8cee-84b04cca6334" alt="Siswa Tambah" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/512521d1-0ec1-4a21-92a1-6405644bc401" alt="Siswa Edit" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/de724c57-970c-4cb3-9e41-f98310e7bd02" alt="Siswa Hapus" style="width: 24%;">
-</div>
+#### **Form Edit**
+![image](https://github.com/user-attachments/assets/c37f1176-90c5-49a6-aaf2-eb94260a272b)
 
-#### **Guru**: Tampil, Tambah, Edit, Hapus.
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/fbff3055-236f-4bd2-a247-5218fda18f4a" alt="Guru Tampil" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/281a1d60-1fea-4335-87ec-98ba7c15770c" alt="Guru Tambah" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/eafe9625-580a-4ed0-95ba-b46122ac9334" alt="Guru Edit" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/f1a31d2a-c1e0-4457-aace-1609a1d7883f" alt="Guru Hapus" style="width: 24%;">
-</div>
+#### **Form Tambah**
+![image](https://github.com/user-attachments/assets/4f5e8bc2-1671-4fb5-9543-ef535a7eed42)
 
-#### **Rombel**: Tampil, Edit, Hapus.
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/8d6b488c-f6a7-4c98-9cc5-971407728e57" alt="Rombel Tampil" style="width: 24%;">
-  <img src="https://github.com/user-attachments/assets/957db759-7a15-465b-9d35-be6c0e3939ad" alt="Rombel Tambah" style="width: 24%;">
-   <img src="https://github.com/user-attachments/assets/a907811d-6a31-4e6d-aca3-3ff3a50aa2a3" alt="Rombel Edit" style="width: 24%;"/>
-  <img src="https://github.com/user-attachments/assets/d8515ebb-867e-4a0c-ba6c-3530e121957f" alt="Rombel Hapus" style="width: 24%;">
-</div>
+#### **Form Delete**
+![image](https://github.com/user-attachments/assets/6108e8e8-d1d5-48e6-8ae1-7c6889ad39b1)
+
 
 ---
 
 ## 5. Langkah-Langkah Menjalankan Aplikasi
 
 1. **Mengakses Halaman Aplikasi**: Buka URL melalui browser.
-2. **Tampilan Awal**: Halaman `home` sebagai tampilan awal.
-3. **Menu Guest**: Akses menu `home` dan `profile`.
-4. **Menu Login**: Masuk untuk pengguna terdaftar.
-5. **Menu Admin**: Tambah, edit, atau hapus data melalui menu lengkap.
-6. **Menu Logout**: Keluar dari akun dan kembali ke halaman login.
-
+2. **Tampilan Awal**: Halaman `dashboard` sebagai tampilan awal yang terdapat menu data penjualan dan tambah penjualan.
+3. **Menu data penjualan**: Halaman tabel database
+4. **Menu tambah penjualan**: Halamam form untuk edit, tambah, dan delete data
 ---
 
 ## 6. Kesimpulan dan Saran
