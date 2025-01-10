@@ -138,20 +138,28 @@ link kode : https://drive.google.com/drive/folders/18ZNTzkE7QKD4xMbGvWBko4phmvuA
 ## 6. Kesimpulan dan Saran
 
 ### a. Kesimpulan
-Sistem ini dirancang untuk mengatasi kendala pendataan siswa di SDN Pamanukan Sebrang 1. Fitur utama seperti:
-- Manajemen data siswa.
-- Informasi sekolah.
-- Tampilan responsif.
-- Keamanan dan backup data.
-
-Dengan sistem ini, sekolah dapat meningkatkan kualitas layanan administrasi di era digital.
+Proyek pengembangan aplikasi web untuk pencatatan penjualan laptop telah berhasil diselesaikan dengan baik. Aplikasi ini mampu:
+   1. Mengotomatiskan proses pencatatan penjualan dengan efisien dan akurat.
+   2. Memberikan kemudahan dalam pengelolaan data pelanggan, produk, dan transaksi.
+   3. Mempermudah admin toko dalam melacak penjualan, menganalisis data, dan menyusun laporan untuk mendukung pengambilan keputusan bisnis.
+   4. Menyediakan antarmuka yang user-friendly sehingga mudah digunakan oleh admin tanpa memerlukan pelatihan khusus.
+Penggunaan aplikasi ini diharapkan dapat meningkatkan efisiensi operasional toko, akurasi data, dan pengambilan keputusan berbasis data yang lebih baik.
 
 ### b. Saran
-1. Pemeliharaan dan pembaruan sistem secara berkala.
-2. Peningkatan desain antarmuka (UI/UX).
-3. Optimasi kinerja sistem.
-4. Pengujian dan evaluasi berkala.
-5. Peningkatan keamanan data.
+Untuk pengembangan lebih lanjut, beberapa saran yang dapat dipertimbangkan adalah:
+   1. Integrasi dengan Sistem Akuntansi
+      Menambahkan fitur integrasi dengan sistem akuntansi akan mempermudah pencatatan keuangan secara keseluruhan, termasuk pendapatan dan pengeluaran toko.
+   2. Pengembangan Sistem Notifikasi
+      Memberikan notifikasi otomatis kepada admin untuk stok produk yang hampir habis atau pengingat pembayaran pelanggan.
+   3. Fitur Laporan yang Lebih Mendetail
+      Menambahkan fitur pembuatan laporan yang lebih mendalam, seperti analisis tren penjualan, performa produk, dan data pelanggan untuk mendukung strategi pemasaran.
+   4. Keamanan Data
+      Meningkatkan sistem keamanan aplikasi, seperti enkripsi data sensitif dan otentikasi dua faktor, untuk melindungi informasi penting dari akses yang tidak sah.
+   5. Pengembangan ke Aplikasi Mobile
+       Mengembangkan aplikasi versi mobile agar admin dapat mengakses dan mengelola data kapan saja dan di mana saja.
+   6. Integrasi dengan Platform E-Commerce
+       Menghubungkan aplikasi dengan platform e-commerce seperti marketplace untuk memperluas jangkauan pasar dan meningkatkan penjualan.
+Dengan implementasi fitur-fitur tambahan ini, aplikasi dapat memberikan nilai tambah yang lebih besar bagi operasional toko dan mendukung pengembangan bisnis di masa depan.
 
 ### Link PDF
 https://github.com/FebiMaharani/Proyek-Pengembangan-APK-Web/blob/main/Projek%20Akhir/Laporan%20PPAW%20Robusta.pdf
