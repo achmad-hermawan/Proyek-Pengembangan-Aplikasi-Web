@@ -44,7 +44,7 @@ Aplikasi ini dirancang untuk mengotomatiskan dan menyederhanakan proses pencatat
 
 ### a. Rancangan Awal
 #### 1) Rancangan Database
-Struktur tabel dirancang untuk mengelola data siswa, guru, rombel, dan pengguna:
+Struktur tabel dirancang untuk mengelola data customer, products, orders, payments:
 
 **Tabel Customer:**
 - id: integer [Primary Key]
@@ -143,6 +143,7 @@ Proyek pengembangan aplikasi web untuk pencatatan penjualan laptop telah berhasi
    2. Memberikan kemudahan dalam pengelolaan data pelanggan, produk, dan transaksi.
    3. Mempermudah admin toko dalam melacak penjualan, menganalisis data, dan menyusun laporan untuk mendukung pengambilan keputusan bisnis.
    4. Menyediakan antarmuka yang user-friendly sehingga mudah digunakan oleh admin tanpa memerlukan pelatihan khusus.
+      
 Penggunaan aplikasi ini diharapkan dapat meningkatkan efisiensi operasional toko, akurasi data, dan pengambilan keputusan berbasis data yang lebih baik.
 
 ### b. Saran
@@ -159,7 +160,8 @@ Untuk pengembangan lebih lanjut, beberapa saran yang dapat dipertimbangkan adala
        Mengembangkan aplikasi versi mobile agar admin dapat mengakses dan mengelola data kapan saja dan di mana saja.
    6. Integrasi dengan Platform E-Commerce
        Menghubungkan aplikasi dengan platform e-commerce seperti marketplace untuk memperluas jangkauan pasar dan meningkatkan penjualan.
+      
 Dengan implementasi fitur-fitur tambahan ini, aplikasi dapat memberikan nilai tambah yang lebih besar bagi operasional toko dan mendukung pengembangan bisnis di masa depan.
 
 ### Link PDF
-https://github.com/FebiMaharani/Proyek-Pengembangan-APK-Web/blob/main/Projek%20Akhir/Laporan%20PPAW%20Robusta.pdf
+https://drive.google.com/file/d/1SpuRy6B-3VQ4d_ymxs7Y6vGIivpJp_TJ/view?usp=sharing
